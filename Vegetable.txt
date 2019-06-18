@@ -9,3 +9,6 @@ lamb
 fruits
 oranges
 apples
+
+banana
+pears
