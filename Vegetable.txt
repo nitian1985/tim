@@ -6,6 +6,6 @@ chicken
 beef
 lamb
 
-cara 
-
-vera
+lily
+lucy
+lady
