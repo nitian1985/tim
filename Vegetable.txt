@@ -6,9 +6,6 @@ chicken
 beef
 lamb
 
-fruits
-oranges
-apples
+cara 
 
-banana
-pears
+vera
