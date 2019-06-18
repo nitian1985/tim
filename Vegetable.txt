@@ -5,3 +5,10 @@ my favourite Vegetable choices
 chicken
 beef
 lamb
+
+fruits
+oranges
+apples
+
+banana
+pears
